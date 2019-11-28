@@ -11,8 +11,9 @@ Exception: This function will be improved later and continue to be classified
 
 Output:
 .xlsl
-Type	Package	Content
-ANR/Crash/Exception	Package name Exception occurred at. 	Will intercept all relevant log contents.
+Type: ANR/Crash/Exception	 	
+Package: Package name Exception occurred at.
+Content: Will intercept all relevant log contents.
 
 Usage:
 Python 2.7+
